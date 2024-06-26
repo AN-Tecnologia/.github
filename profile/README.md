@@ -31,6 +31,7 @@ Depois, sugerimos que leia e use como referência a [Wiki AN Tecnologia](https:/
 - [Slack](https://app.slack.com/client/T04GLJUPQ4B)
 - [Jira](https://an-tecnologia-1.atlassian.net/jira)
 - [Clockify](https://app.clockify.me)
+- [Postman](https://www.postman.com/an-tecnologia)
 - [Github](https://github.com/AN-Tecnologia)
 - [Gitlab](https://gitlab.com/an-tecnologia)
 
@@ -55,6 +56,8 @@ Depois, sugerimos que leia e use como referência a [Wiki AN Tecnologia](https:/
 - Skynet ERP
 - Skynet Central
 - Skynet E-Commerce
+- Skynet Módulo Impressor
+- Skynet Websocket
 - Freedom Fans
 
 #### Madalozzo
