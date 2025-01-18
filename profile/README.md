@@ -8,7 +8,7 @@ A nossa organização trabalha atualmente com dois componentes: *Contratos* e *S
 
 Primeiramente, vamos precisar que você baixe e preencha a planilha de cadastro no formato .xlsx ([clique aqui para baixar](https://docs.google.com/spreadsheets/d/1T4abmD0SZwDWNdcncwaacz3oX5wKoatI/edit?usp=sharing&ouid=113204956876205314055&rtpof=true&sd=true))
 
-Depois, sugerimos que leia e use como referência a [Wiki AN Tecnologia](https://wiki.an.tec.br)
+Depois, sugerimos que leia e use como referência a [Wiki AN Tecnologia](https://wiki.aastera.com)
 
 ## Tecnologias utilizadas atualmente
 
